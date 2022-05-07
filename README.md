@@ -7,3 +7,4 @@ cd webview
 sed -i "s/WebView2Loader.dll.lib/WebView2LoaderStatic.lib/g" script/build.bat
 script/build.bat
 ```
+![2022-04-17_09-31.png](2022-04-17_09-31.png)
